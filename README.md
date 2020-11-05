@@ -3,7 +3,7 @@
 <!--
 **charlotteout/charlotteout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a Computer Scientists from The Netherlands, passionate about Machine Learning and Cryptography, as well as Theoretical Computer Science <p style="font-size:100px">&#128540;</p>
+I am a Computer Scientists from The Netherlands :tulip:, passionate about Machine Learning and Cryptography, as well as Theoretical Computer Science 
 
 
 - 🔭 I’m currently working on ...
