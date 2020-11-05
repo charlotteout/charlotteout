@@ -1,9 +1,10 @@
-### Hi there 👋
+### Welcome, I'm Charlotte 👋
 
 <!--
 **charlotteout/charlotteout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Computer Scientists from The Netherlands, passionate about Machine Learning and Cryptography, as well as Theoretical Computer Science <U+1F9DA>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=charlotteout&theme=dracula"
-/>
+
