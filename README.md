@@ -8,7 +8,7 @@ Some more info on me
 
 - I am a Master Student at ETH Zurich :pushpin:
 - I graduated cum laude from Amsterdam University College :mortar_board:
-- I love vegan food :seedling:,thriftshopping ,:womans_hat: and skiing  :ski:
+- I love vegan food :seedling: and skiing  :ski:
 
 
 
