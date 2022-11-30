@@ -1,8 +1,7 @@
 ### Welcome, I'm Charlotte 👋 
 
+I am a Computer Science PhD student at the University of Cambridge, studying the spread of information on graphs. I was previously a master student at ETH Zurich :pushpin:
 
-
-I am a Computer Scientist from The Netherlands :tulip:, passionate about Theoretical Computer Science, as well as Machine Learning and Cryptography. I am a Master Student at ETH Zurich :pushpin:
 
 
 
